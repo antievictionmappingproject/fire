@@ -1,0 +1,11 @@
+Current hypotheses:
+- Rent-controlled are disproportionately affected by fires
+- The more the assessed loss of a fire is, the more likely the building is to be rent-controlled
+- The reason we're looking into this data is that there is at least some suspicion that some of these fires are arson. Landlords of rent-controlled buildings have so much incentive to cash in on insurance money and/or sell the land to someone who'd build luxury apartments. If we can show that the percentage of fires that are rent-controlled is greater than the percentage of rent-controlled buildings in SF, that would at least confirm our suspicion. We've had some trouble distinguishing between buildings and unit addresses in the rent-controlled dataset, though. So right now we have a lower percentage of fires that are rent-controlled than percentage of rent-controlled *units*. I think it's because we're using rent-controlled buildings instead of units. If this is the case, it'd make sense that the percentage is lower because you'd suspect that the percentage of units that are rent-controlled is lower than the percentage of buildings that are rent-controlled (since rent-controlled buildings tend to have more units). 
+- I've attached a folder of figures that I generated that graph the percentage of fires that are rent-controlled (y-axis) against the assessed loss threshold (x-axis) for each zipcode. The trend seems to be pretty positive in most all areas, so this could be something to look into. I think you'd have a lot better idea of what questions to ask. 
+
+To look into:
+- Fires by neighborhood and income
+  - There are already some maps for this on the AEMP site, but would be nice to come up with some hypotheses and look deeper into the data
+  
+
